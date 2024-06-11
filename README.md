@@ -1,4 +1,4 @@
-# SBA LoFi Website
+# LoFi Website
 
 ## Overview
 This project is a LoFi-themed website with responsiveness features. It includes three main pages: Main, Login, and Register. The site features clickable links, a dropdown playlist, and various hover effects. The layout adapts to different screen orientations and sizes, making it user-friendly on desktops, tablets, and phones.
